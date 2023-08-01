@@ -1,0 +1,65 @@
+body{
+    font-family: 'Karla', sans-serif;
+    background-color: #83c5be;
+    margin: 50px;
+}
+
+.design {
+    font-family: 'Edu SA Beginner', cursive;
+    color: #ffddd2;
+}
+
+.design:hover{
+    color: #006d77;
+}
+
+h1{
+    color: #006d77;
+    font-size: 7rem;
+}
+
+#explore{
+    height: 60px;
+    width: 130px;
+    font-size: 1.3rem;
+    border: 0px;
+    border-radius: 30px;
+    color: #006d77;
+    background-color: #ffddd2;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+#explore:hover{
+    background-color: #006d77;
+    color: #ffddd2;
+}
+
+#contact{
+    height: 60px;
+    width: 130px;
+    font-size: 1.3rem;
+    border: 0px;
+    border-radius: 30px;
+    color: #ffddd2;
+    background-color: #006d77;
+    margin-bottom: 40px;
+}
+
+img{
+    border-radius: 7px;
+}
+
+.left{
+    float:left;
+    width: 40%;
+}
+
+.right{
+    float:right;
+    width: 40%;
+}
+
+.card{
+    margin-top:40px;
+}
